@@ -6,7 +6,6 @@ The project combines ABC-XYZ classification, EOQ, safety stock, reorder point an
 
 **[Live demo](https://rakhanaufal736-cmd.github.io/inventory-abc-xyz-analysis/)** | **[Download the Excel workbook](analisis_inventory_abc_xyz_v2.xlsx)**
 
-> Replace `YOUR-USERNAME` with your GitHub username once GitHub Pages is enabled.
 
 ---
 
